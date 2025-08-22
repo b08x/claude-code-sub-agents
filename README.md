@@ -1,6 +1,6 @@
 # Claude Code Subagents Collection
 
-A comprehensive collection of 33 specialized AI subagents for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), designed to enhance development workflows with domain-specific expertise and intelligent automation.
+A comprehensive collection of 35 specialized AI subagents for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), designed to enhance development workflows with domain-specific expertise and intelligent automation.
 
 ## 🚀 Overview
 
@@ -72,6 +72,7 @@ Agents are now organized into logical categories for easier navigation:
 - **[data-engineer](data-ai/data-engineer.md)** - Build ETL pipelines, data warehouses, and streaming architectures
 - **[data-scientist](data-ai/data-scientist.md)** - Data analysis expert for SQL queries, BigQuery operations, and data insights
 - **[database-optimizer](data-ai/database-optimizer.md)** - Optimize SQL queries, design efficient indexes, and handle database migrations
+- **[database-architect-sfl](data-ai/database-architect-sfl.md)** - SFL-enhanced database architect specializing in systematic analysis of requirements, code, and text to design optimal database schemas
 - **[postgres-pro](data-ai/postgres-pro.md)** - PostgreSQL database expert for advanced queries and optimizations
 - **[graphql-architect](data-ai/graphql-architect.md)** - Design GraphQL schemas, resolvers, and federation patterns
 
@@ -89,6 +90,7 @@ Agents are now organized into logical categories for easier navigation:
 
 - **[api-documenter](specialization/api-documenter.md)** - Create OpenAPI/Swagger specs and write developer documentation
 - **[documentation-expert](specialization/documentation-expert.md)** - Professional technical writing and comprehensive documentation systems
+- **[technical-documentation-expert-sfl](specialization/technical-documentation-expert-sfl.md)** - SFL-enhanced technical documentation specialist bridging software engineering and linguistic analysis, producing Obsidian-compatible documentation
 
 ### 💼 [Business](business/)
 
